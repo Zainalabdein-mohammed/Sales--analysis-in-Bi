@@ -1,0 +1,8 @@
+- Data for the first four months of the year.
+- The files have been uploaded to PowerPI.
+- The data was cleaned and prepared for analysis.
+- The report has been made to be understandable and simplified for the end users.
+- The report includes the most sales.
+- the amount of demand.
+- what are the most sold and least sold products.
+- and what are the most expensive and least expensive products
